@@ -48,3 +48,4 @@
 
 🌐 Desenvolvimento Web
 
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrei-Jesus&theme=2077)</a>![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrei-Jesus&theme=2077)</a>![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andrei-Jesus&theme=2077)
