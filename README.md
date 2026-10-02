@@ -2,7 +2,7 @@
 
 # 🧑🏽‍💻​ Andrei Jesus
 
-**📊Analista de Dado Jr**
+**📊Analista de Dados | Sistemas**
 
 🎓 Sou estudante de Sistemas de Informação, na UFMS, atualmente no 5º semestre, e estou direcionando minha carreira para a área de Dados e Analytics. Tenho experiência profissional nas áreas administrativa e de suporte técnico operacional, onde desenvolvi organização, resolução de problemas, acompanhamento de processos e análise de informações.
 
